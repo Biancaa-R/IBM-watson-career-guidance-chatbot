@@ -39,3 +39,7 @@ cleo clears all doubts they have and counsellor's time isn't wasted on usual que
 Also instead of a huge list having the list of careers and their info,..our chatbot will provide just the info that the user wants
 
 
+# Link of the career guidance website:
+(The chatbot's page can be accessed by clicking the chatbot icon down right in the website)
+
+https://avanthuashwin123.wixsite.com/website
